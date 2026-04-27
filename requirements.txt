@@ -1,7 +1,7 @@
 ipykernel
 dotenv
 langchain
-langchain_comminity
+langchain_community
 langchain_openai
 langchain_core
 langgraph
